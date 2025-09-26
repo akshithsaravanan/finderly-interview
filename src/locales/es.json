@@ -1,0 +1,28 @@
+{
+  "app.title": "Proyecto",
+  "home.welcome": "Bienvenido",
+  "home.tagline": "Construye una vez, ejecútalo en todas partes.",
+  "language.switch": "Cambiar a Inglés",
+  "home.getStarted": "Comenzar",
+  "home.featuresTitle": "Qué obtienes",
+  "home.features": {
+    "fast": "Inicio rápido",
+    "unified": "Código unificado",
+    "theming": "Tema moderno",
+    "i18n": "i18n integrado"
+  },
+  "details.title": "Detalles",
+  "details.description": "Este ejemplo demuestra internacionalización con inglés y español.",
+  "details.highlightsTitle": "Destacados",
+  "details.highlights": {
+    "i18n": "Listo para i18n",
+    "storage": "Idioma persistente",
+    "web": "Web + Nativo"
+  },
+  "list.title": "Tus Tareas",
+  "list.empty": "Aún no hay tareas",
+  "list.addPlaceholder": "Añade una nueva tarea",
+  "list.addButton": "Añadir"
+}
+
+

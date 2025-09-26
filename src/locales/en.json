@@ -1,0 +1,28 @@
+{
+  "app.title": "Project",
+  "home.welcome": "Welcome",
+  "home.tagline": "Build once, run everywhere.",
+  "language.switch": "Switch to Spanish",
+  "home.getStarted": "Get Started",
+  "home.featuresTitle": "What you get",
+  "home.features": {
+    "fast": "Fast start",
+    "unified": "Unified code",
+    "theming": "Modern theming",
+    "i18n": "Built-in i18n"
+  },
+  "details.title": "Details",
+  "details.description": "This sample demonstrates internationalization with English and Spanish.",
+  "details.highlightsTitle": "Highlights",
+  "details.highlights": {
+    "i18n": "i18n-ready",
+    "storage": "Persistent language",
+    "web": "Web + Native"
+  },
+  "list.title": "Your Tasks",
+  "list.empty": "No tasks yet",
+  "list.addPlaceholder": "Add a new task",
+  "list.addButton": "Add"
+}
+
+
